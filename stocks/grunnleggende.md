@@ -1,5 +1,9 @@
 # G1r1ng
 
+
+
+
+
 ## 1. Hva er Verdipapirbelåning?
 Verdipapirbelåning er en investeringsstrategi hvor lånte midler benyttes for å øke handlekraften. Aksjer eller fond i en portefølje fungerer som sikkerhet for et lån. Dette konseptet omtales også som giring eller marginhandel, ettersom det forsterker den finansielle eksponeringen.
 
@@ -21,3 +25,8 @@ Forholdet: Belåningsverdien må alltid være lik eller høyere enn det lånte b
 Rentekostnader: Renter påløper kun for det beløpet som er benyttet, ikke for hele den godkjente kredittrammen. Rentene beregnes daglig, men trekkes vanligvis månedlig.
 
 Eget ansvar: Investoren har selv ansvar for å overvåke kontoen, markedsverdi, belåningsgrad og belåningsverdi. Meglerhus har ikke ansvaret for å forhindre overbelåning.
+
+
+
+
+# 
