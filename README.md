@@ -21,5 +21,5 @@ The competitive environment, including other startups and established companies 
 The stability and cost of their supply chain.
 ###(e) 
 Public perception and political support for the company and its product.
-###(6)
+## (6)
 Synthesize all the gathered information into a comprehensive comparison table. The table should include columns for Company Name, Technology Type, Development Stage, Stock Ticker, Current Stock Price, Forecasts (1-Year & 5-Year), and a summary of Key 'Make or Break' Factors (Opportunities & Threats).
