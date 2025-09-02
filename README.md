@@ -1,7 +1,7 @@
 # Prompts
 ## Stock Prompts 
 
-### (1)
+### (1) (Change This)
 Identify a list of publicly traded companies that are focused on developing and commercializing emerging or new xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 ### (2) 
 For each company identified, conduct in-depth research on its specific technology. Detail its operational principles, current stage of development (e.g., conceptual, licensing, under construction), key technological advantages, and potential hurdles.
