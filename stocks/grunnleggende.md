@@ -1,3 +1,5 @@
+# G1r1ng
+
 ## 1. Hva er Verdipapirbelåning?
 Verdipapirbelåning er en investeringsstrategi hvor lånte midler benyttes for å øke handlekraften. Aksjer eller fond i en portefølje fungerer som sikkerhet for et lån. Dette konseptet omtales også som giring eller marginhandel, ettersom det forsterker den finansielle eksponeringen.
 
