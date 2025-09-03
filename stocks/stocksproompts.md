@@ -1,6 +1,6 @@
 
-# Prompts
-## Stock Prompts 
+# Stock Prompts
+## Research sector/company 
 
 ### (1) (Change This)
 Identify a list of publicly traded companies that are focused on developing and commercializing emerging or new xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -24,3 +24,39 @@ The stability and cost of their supply chain.
 Public perception and political support for the company and its product.
 ## (6)
 Synthesize all the gathered information into a comprehensive comparison table. The table should include columns for Company Name, Technology Type, Development Stage, Stock Ticker, Current Stock Price, Forecasts (1-Year & 5-Year), and a summary of Key 'Make or Break' Factors (Opportunities & Threats).
+
+
+
+## Single stock short-term historical performance overview 
+
+"Provide an in-depth analysis of the stock performance for [Company Name] (Ticker: [Stock Ticker]) over the last month.
+
+### Your analysis should include:
+
+Stock Performance Summary: A high-level overview of the stock's price movement, including key dates and the overall percentage change for the month.
+
+### Catalysts and News Analysis:
+
+Identify all major news releases, SEC filings (e.g., 8-K, 10-Q), and corporate announcements (e.g., earnings reports, clinical trial data, new partnerships) that occurred during the period.
+
+Explain how each event logically influenced the stock's price, whether positively or negatively.
+
+### Analyst and Market Sentiment:
+
+Detail any changes in analyst ratings or price targets.
+
+Describe the overall market sentiment toward the stock.
+
+Identify any significant institutional or insider buying/selling activity.
+
+### Financial Health and Valuation:
+
+Summarize key financial metrics reported during the month (e.g., revenue, net income/loss, cash flow, debt).
+
+Explain how these financials impact the company's future outlook and potential for growth.
+
+### Forward-Looking Outlook:
+
+Based on the collected data, provide a reasoned outlook for the stock in the near to medium term.
+
+Identify upcoming milestones or events that could further influence the stock's price."
